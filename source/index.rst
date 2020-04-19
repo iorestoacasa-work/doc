@@ -10,12 +10,15 @@ Welcome to IoRestoACasa.work's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-    privacy
-    tech
-    jitsi
-    mm
-    deploys
-    faq
+   privacy
+   tech
+   jitsi_meet
+   mm
+   tools
+   docenti
+   studenti
+   deploys
+   faq
 
 
 Indices and tables
