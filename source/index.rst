@@ -10,6 +10,12 @@ Welcome to IoRestoACasa.work's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+    privacy
+    tech
+    jitsi
+    mm
+    deploys
+    faq
 
 
 Indices and tables
